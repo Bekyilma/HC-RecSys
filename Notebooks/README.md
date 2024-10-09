@@ -1,4 +1,4 @@
-# Summer_school2022
+# RecSys 2024 Tutorial
 <p align="center">
 <img width="1100"  src="imgs/header.png"/> 
 </p>
