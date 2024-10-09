@@ -14,19 +14,19 @@
 ### Creating a Conda Environment:
 1. To create a new Conda environment, open a new command prompt or terminal and use the following command:
     ```sh
-    conda create --name cix23 python=3.9
+    conda create --name recsys24 python=3.9
     ```
-    Replace "cix23" with your desired environment name, 
+    Replace "recsys24" with your desired environment name, 
 
 2. Activate the new environment:
     * On macOS/Linux:
     ```sh
-    conda activate cix23
+    conda activate recsys24
     ```
 
     * On Windows:
     ```sh
-    activate cix23
+    activate recsys24
     ```
 3. Install Requirements:
 
